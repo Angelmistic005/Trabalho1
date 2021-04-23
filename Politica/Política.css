@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+}
+
+section h1{
+    margin-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+}
+
+.img1{
+    margin-left: 3%;
+    width: 30%;
+    height: 25%;
+}
+
+.img2{
+    
+    margin-left: 3%;
+    width: 30%;
+    height: 25%;
+}
+
+.corpo{
+    margin: 30px;
+    color: #21022d;
+    background-color: rgb(182, 255, 225);
+}
+
+h2{
+    margin-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+}
+
+p{
+    margin-left: 3%;
+    margin-right: 10%;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover{
+    color: red;
+}
+
+a{
+    color: black;
+    transition: color 0.5s ;
+}

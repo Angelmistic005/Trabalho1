@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(210, 255, 255);
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 3%;
+    padding-top: 2%;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 3%;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: justify;
+}
+
+.img1{
+    float: right;
+    padding-right: 3%;    
+    padding-left: 1%;
+    width: 30%;
+}
+
+.p2{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: justify;
+}
+
+ol, li{
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    margin-right: 3%;
+}

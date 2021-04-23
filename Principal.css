@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.img1{
+    float: left;
+    padding-right: 1%;
+}
+
+h1{
+    text-align: left;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+}
+
+header{
+    background-color: rgb(182, 255, 225);
+    padding: 1px;
+}
+
+nav ul{
+    box-sizing: border-box;
+    padding: 4px;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+nav ul li a:hover {
+    cursor:pointer;
+    color: black;
+    border-bottom:2px solid black;
+    font-size: 50px;
+    color:rgb(147, 238, 211);
+ }
+
+ nav ul li a{
+    background-color: white;
+    color: rgb(147, 238, 211);
+    margin: 0%; 
+    border: 2px solid white; 
+    position: relative;
+    list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.9s;
+ }
+
+ .seçãocovid{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 2%;
+    margin-left: 2%;
+    text-align: center;
+    font-size: 60px;
+ }
+ 
+ .img2{
+     width: 70%;
+     height: 70%;
+     float:none; 
+     display:block; 
+     margin-left:auto; 
+     margin-right:auto;
+     margin-top: 3%;
+ }
+
+ P{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%; 
+    margin-right: 15%;
+    text-align: justify;
+    margin-top: 3%;
+ }
+
+ h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15%; 
+    margin-right: 15%;
+    text-align: justify;
+    margin-top: 3%;
+ }
+
+ a{
+    color: darkmagenta;
+    margin-left: 15%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+ }
+
+ .p3{
+        margin: 0px;
+        text-align: center;
+        background-color: rgb(182, 255, 225);
+        color: rgb(63, 187, 94);
+        padding-top: 8px;
+        padding-bottom: 8px;
+        font-family: 'Montserrat', sans-serif;
+        text-decoration: none;
+ }
