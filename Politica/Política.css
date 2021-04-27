@@ -10,6 +10,7 @@ section h1{
     font-family: 'Montserrat', sans-serif;
     color: rgb(101, 182, 121);
     padding-top: 2%;
+    border-bottom: 1px solid #7fa7d4;
 }
 
 .img1{
