@@ -7,9 +7,11 @@ section h1{
     margin-left: 3%;
     margin-top: 0%;
     margin-bottom: 2%;
+    margin-right: 5%;
     font-family: 'Montserrat', sans-serif;
     color: rgb(101, 182, 121);
     padding-top: 2%;
+    border-bottom: 1px solid #7fa7d4;
 }
 
 .img1{
