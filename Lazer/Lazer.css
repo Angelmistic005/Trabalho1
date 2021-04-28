@@ -1,3 +1,111 @@
 h1{
-    color: antiquewhite;
+    margin-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    margin-right: 5%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+    border-bottom: 1px solid #7fa7d4;
+}
+
+.t1{
+    margin-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+}
+
+.t2{
+    margin-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+}
+
+.t3{
+    margin-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+}
+
+p{
+    margin-left: 3%;
+    margin-right: 5%;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img1{
+    float: right;
+    padding-left: 2%;
+    width: 35%;
+    height: 25%;
+}
+
+.img2{
+    padding-left: 3%;
+    width: 35%;
+    height: 25%;
+}
+
+.img3{
+    padding-left: 3%;
+    width: 35%;
+    height: 25%;
+}
+
+.img4{
+    padding-left: 3%;
+    width: 35%;
+    height: 25%;
+}
+
+.img5{
+    padding-left: 3%;
+    width: 35%;
+    height: 25%;
+}
+
+.img6{
+    padding-left: 3%;
+    width: 35%;
+    height: 25%;
+}
+
+.img7{
+    padding-left: 3%;
+    width: 35%;
+    height: 25%;
+}
+
+.img8{
+    padding-left: 3%;
+    width: 35%;
+    height: 25%;
+}
+
+.t4{
+    margin-left: 3%;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(101, 182, 121);
+    padding-top: 2%;
+}
+
+.img9{
+    float: left;
+    padding-left: 3%;
+    padding-right: 2%;
+    width: 35%;
+    height: 25%;
+    padding-bottom: 2%;
 }
